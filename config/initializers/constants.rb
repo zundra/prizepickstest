@@ -1,0 +1,7 @@
+DIET_TYPES = %w[HERBIVORE CARNIVORE].freeze
+
+DIETS = {herbivore: DIET_TYPES[0], carnivore: DIET_TYPES[1]}
+
+POWER_STATE_TYPES = %w[ACTIVE DOWN].freeze
+
+POWER_STATES = {active: POWER_STATE_TYPES[0], down: POWER_STATE_TYPES[1]}

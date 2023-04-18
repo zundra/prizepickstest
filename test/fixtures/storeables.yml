@@ -1,0 +1,9 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  storeable_id: 1
+  storable_type: MyString
+
+two:
+  storeable_id: 1
+  storable_type: MyString
